@@ -1,0 +1,1 @@
+print('wellcome binaya to python world ...');
